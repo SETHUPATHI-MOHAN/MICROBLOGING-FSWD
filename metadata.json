@@ -1,0 +1,5 @@
+{
+  "name": "Microblog Simple",
+  "description": "A simple and elegant microblogging web page where users can post short messages and view a feed of all posts in chronological order.",
+  "requestFramePermissions": []
+}
